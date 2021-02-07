@@ -5,3 +5,5 @@ La api que usare aun no esta del todo claro cual sera ya que sigo buscando la ma
 
 
 TRELLO: https://trello.com/invite/b/Bg7r0xSN/b5ba4e6c6983ffeabc3f719d1146ece3/nba
+
+FIGMA: https://www.figma.com/file/DgwvaVV8VDXeta9cdxDNnc/Untitled?node-id=0%3A1
