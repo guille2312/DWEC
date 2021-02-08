@@ -15,4 +15,4 @@ Diferentes apis(aun no se cual);
 - https://sportsdata.io/developers/api-documentation/nba
 - https://pypi.org/project/nba-api/
 - https://github.com/kashav/nba.js#examples
-  
+- https://www.balldontlie.io/#introduction
