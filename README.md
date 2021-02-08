@@ -8,7 +8,16 @@ TRELLO: https://trello.com/invite/b/Bg7r0xSN/b5ba4e6c6983ffeabc3f719d1146ece3/nb
 
 FIGMA: https://www.figma.com/file/DgwvaVV8VDXeta9cdxDNnc/Untitled?node-id=0%3A1
 
-Diferentes apis(aun no se cual);
+DRAW.IO: https://drive.google.com/file/d/1DI4aBedW2pv3EKyHsQoBrJgo630ivVTr/view?usp=sharing
+
+
+APIS
+- https://www.balldontlie.io/#introduction
+
+
+___________________________________________________________________________________________________________________________________________________________________________________
+- https://github.com/kashav/nba.js#license
+
 - https://fantasydata.com/api/api-documentation/nba#
 - https://rapidapi.com/theapiguy/api/free-nba
 - https://www.reddit.com/r/nba/comments/aljs2n/oc_i_made_a_free_nba_api_with_data_from/
