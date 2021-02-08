@@ -14,5 +14,5 @@ Diferentes apis(aun no se cual);
 - https://www.reddit.com/r/nba/comments/aljs2n/oc_i_made_a_free_nba_api_with_data_from/
 - https://sportsdata.io/developers/api-documentation/nba
 - https://pypi.org/project/nba-api/
-- 
+- https://github.com/kashav/nba.js#examples
   
